@@ -1,0 +1,16 @@
+Queffeulou Jade
+Rapport de séance 1 : 
+Séance du 10 décembre 2018
+
+Aujourd'hui nous débutons notre projet et nous avons mis au point notre cahier des charges, y expliquant notre but, le matériel utilisé
+ainsi que la répartition des tâches. Nous avons également défini un programme que l'on tentera de suivre au cours des séances. 
+Pendant cette séance, j'ai donc pris connaissance du cours à propos du moteur pas à pas. En effet nous ont auront besoin de 5 moteurs 
+pas à pas pour les 5 seringues de notre boitier contenant la peinture. 
+J'ai réalisé le montage du moteur pas à pas NEMA17, un moteur bipolaire, avec la carte Arduino Uno, l'alimentation 5V et le driver
+A4988. Avec le programme en parallèle, le moteur fait bien un tour sur lui même avec 1seconde de pause. C'est un début, un test, pour 
+bien prendre connaissance de ce moteur que l'on utlisera principalent pour notre projet. 
+
+La semaine prochaine, il s'agira de continuer le codage, permettant d'actionner les différents moteurs suivant la couleur choisie ainsi 
+que les autres codes à réaliser comme la connexion Bluetooth pour le choix de la couleur 
+
+
