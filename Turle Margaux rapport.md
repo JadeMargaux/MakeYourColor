@@ -8,3 +8,10 @@ De mon côté, j'ai fait sur excel un diagramme de gantt afin de prévoir les t�
 nécessaire à l'avancée du projet. 
 
 <img src ="https://github.com/JadeMargaux/MakeYourColor/blob/master/Ressources/Diagramme%20de%20Gantt.png" alt="Diagramme de Gantt"/>
+
+
+Séance 2 : 17 Décembre 2018
+
+Aujourd'hui, j'ai réalisé le schéma de notre projet, et j'ai mesuré toutes les pièces afin de déterminer la taille de notre socle et sa forme.
+
+
