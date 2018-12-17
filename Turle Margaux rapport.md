@@ -8,4 +8,4 @@ De mon côté, j'ai fait sur excel un diagramme de gantt afin de prévoir les t�
 nécessaire à l'avancée du projet. 
 
 (cf annexe)
-<a href ="https://cdn.pixabay.com/photo/2016/06/18/17/42/image-1465348_960_720.jpg"></a>
+<img src ="https://cdn.pixabay.com/photo/2016/06/18/17/42/image-1465348_960_720.jpg" alt="Image de chat"/>
