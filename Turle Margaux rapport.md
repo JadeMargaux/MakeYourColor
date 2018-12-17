@@ -15,4 +15,4 @@ Séance 2 : 17 Décembre 2018
 Aujourd'hui, j'ai réalisé le schéma de notre projet, et j'ai mesuré toutes les pièces afin de déterminer la taille de notre socle et sa forme.
 
 
-<img src ="" alt="Diagramme de Gantt"/>
+<img src ="https://github.com/JadeMargaux/MakeYourColor/blob/master/Ressources/sch%C3%A9ma%20du%20projet.JPG" alt="Schéma du projet"/>
