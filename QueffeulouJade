@@ -14,3 +14,19 @@ La semaine prochaine, il s'agira de continuer le codage, permettant d'actionner 
 que les autres codes à réaliser comme la connexion Bluetooth pour le choix de la couleur 
 
 
+
+Rapport de séance 2 : 
+Séance du 17 décembre 2018
+
+Le programme du moteur pas à pas fonctionne, il fait un tour complet dont on controle le temps de rotation. J'ai donc réalisé aujourd'hui 
+le code qui permet à l'aide de la connexion Bluetooth, le choix de la couleur à réaliser. Tout d'abord je me suis demandée si il fallait
+un unique driver A4988 ou 5 différents. Finalement, nous avons été d'accord sur le fait qu'il fallait 5 driver A4988 que l'on reliera
+au VDD et GDN grâce à la plaquette. J'ai donc repris le programme que j'utilisais pour un seul moteur, et dans ce code, j'ai assimilé
+chaque couleur à réaliser à une lettre qui correspondra à un bouton indicator sur l'application "Bluetooth Electronics". Quand on appuiera 
+sur le bouton en question, les moteurs correspondant aux bonnes couleurs se mettront à fonctionner ensemble, pour déposer sur la palette 
+peinture.
+En attendant la livraison des 4 autres moteurs pour tester le code en entier, j'essaie de tester avec un seul moteur. 
+Pour l'instant nous n'avons pas pris de retard sur notre programme. La séance prochaine, les moteurs devraient être arrivés. Avec le module 
+bluetooth et les 5 moteurs, j'essaierai le code. Ce sera une bonne avancée, la partie étant pratiquement terminée. 
+
+Voici une photo du montage avec un seul moteur 
