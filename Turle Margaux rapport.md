@@ -17,3 +17,12 @@ Au dessus de chaque pipette, on aura un moteur avec une roue dentelée et une ba
 
 
 <img src ="https://github.com/JadeMargaux/MakeYourColor/blob/master/Ressources/sch%C3%A9ma%20du%20projet.JPG" alt="Schéma du projet"/>
+
+
+Séance 3 : 07 Janvier 2019
+
+Aujourd'hui, suite à votre demande, j'ai modifié le diagramme de gantt. En effet, j'ai précisé sur celui-ci notre rôle dans chacune des tâches à réaliser (voir légende).
+
+Ensuite, je me suis intéressée aux différents liens que M.Masson nous a envoyé par mail afin de choisir la forme de la crémaillère. Nous allons en prendre une déjà toute faîte, ce qui donc la solution la plus simple, qui va nous faire gagner du temps. https://www.stlfinder.com/model/linear-paintbrush-mechanism-nema17-bazykZqV/8073680
+
+Enfin, sur inventor, j'ai commencé à modéliser la pièce centrale du projet, où j'ai percé les différents trous. Je finirai donc la semaine prochaine de modéliser les pièces restantes.
