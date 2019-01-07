@@ -32,3 +32,14 @@ bluetooth et les 5 moteurs, j'essaierai le code. Ce sera une bonne avancée, la 
 Voici une photo du montage avec un seul moteur
 <img src="https://github.com/JadeMargaux/MakeYourColor/blob/master/Ressources/Montage%20avec%20un%20moteur%20pas%20à%20pas.JPG" alt="montage du moteur pas à pas />
  Voir dans la partie Ressources 
+
+Rapport de séance 3 :
+Séance du 7 janvier 2019
+
+Aujourd'hui, nous avons bien reçu les autres moteurs Nema 17. Pour commencer, je réalise le branchement des 4 autres moteurs sur la carte
+Arduino avec les 4 autres driver. Les 4 moteurs étant neufs, il faut que je soude les 4 filsdes moteurs à d'autres fils afin 
+de pouvoir faire les branchements. La soudure m'a pris du temps, je n'ai d'ailleurs pas terminé, il me manque les 4 fils d'un moteur. 
+Je finirais la séance prochiane cette soudure. Je pourrais finalement brancher les moteurs au montage. Par ailleurs j'ai en amont branché les driver aux entrées correspondantes 
+ainsi qu'a la masse et le 5V.
+Du coté Bluetooth, j'ai créé les 10 boutons différents sur l'appli du telephone. 
+La semaine prochaine, normalement la partie code devrait etre bouclée. 
