@@ -41,5 +41,12 @@ Arduino avec les 4 autres driver. Les 4 moteurs étant neufs, il faut que je sou
 de pouvoir faire les branchements. La soudure m'a pris du temps, je n'ai d'ailleurs pas terminé, il me manque les 4 fils d'un moteur. 
 Je finirais la séance prochiane cette soudure. Je pourrais finalement brancher les moteurs au montage. Par ailleurs j'ai en amont branché les driver aux entrées correspondantes 
 ainsi qu'a la masse et le 5V.
-Du coté Bluetooth, j'ai créé les 10 boutons différents sur l'appli du telephone. 
+Du coté Bluetooth, j'ai créé les 10 boutons différents sur l'appli du telephone. Ces boutons permettront de choisir la couleur que l'on souhaite. 
+grâce à la connexion HC-06, les boutons sont reliés à des couleurs spécifiques qui de ce fait via le programme devrait
+enclenche le moteur concerné.
 La semaine prochaine, normalement la partie code devrait etre bouclée. 
+
+Rapport de séance 4:
+Séance du 14 janvier 2019
+
+Aujourd'hui, il est temps de finir la soudure de la semaine précédente. Il reste un moteur : 
