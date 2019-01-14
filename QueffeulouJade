@@ -49,4 +49,21 @@ La semaine prochaine, normalement la partie code devrait etre bouclée.
 Rapport de séance 4:
 Séance du 14 janvier 2019
 
-Aujourd'hui, il est temps de finir la soudure de la semaine précédente. Il reste un moteur : 
+Aujourd'hui, il est temps de finir la soudure de la semaine précédente. Il reste les 4 fils d'un moteur à souder.
+Une fois cette tâche finie, j'ai pu  enfin essayer le programme avec les 5 moteurs. Pour un petit rappel; le programme était de mettre
+dans un même code à la fois la connexion bluetooth et le déclenchement des moteurs concernés par le choix des couleurs.
+J'ai rencontré un problème au niveau de ce point. 
+En effet la connexion bluetooth ne marchait pas. J'ai décidé de partager le code en deux, d'un coté la connexion bluetooth et 
+de l'autre la partie "fonctionnement des moteurs". 
+Pour être certaine que les moteurs pouvaient s'actionner ensemble, j'ai vérifié en amont avec le premier programme qui concernait un seul
+moteur. 
+Finalement, j'ai réussi à connecter le téléphone au bluetooth via le module HC-06 et à faire fonctionner les moteurs tous ensemble. 
+En résumé cela a été une séance fructueuse : désormais si l'on appuie par exemple sur le bouton rouge qui correspond au moteur 3, 
+le moteur 3 se met à tourner. 
+La partie code que j'avais en tête est donc terminée. Cependant suite de la présentation orale, j'ai décidé de en effet 
+rajouter l'idée de la palette et du choix personnel des couleurs. Ce sera pour la séance prochaine. 
+
+Voici une photo du montage avec les 5 moteurs
+<img src="https://github.com/JadeMargaux/MakeYourColor/blob/master/Ressources/Montage%20avec%20un%20moteur%20pas%20à%20pas.JPG" alt="montage du moteur pas à pas />
+ Voir dans la partie Ressources
+
