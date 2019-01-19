@@ -26,3 +26,12 @@ Aujourd'hui, suite à votre demande, j'ai modifié le diagramme de gantt. En eff
 Ensuite, je me suis intéressée aux différents liens que M.Masson nous a envoyé par mail afin de choisir la forme de la crémaillère. Nous allons en prendre une déjà toute faîte, ce qui est donc la solution la plus simple, qui va nous faire gagner du temps. https://www.stlfinder.com/model/linear-paintbrush-mechanism-nema17-bazykZqV/8073680
 
 Enfin, sur inventor, j'ai commencé à modéliser la pièce centrale du projet, où j'ai percé les différents trous. Je finirai donc la semaine prochaine de modéliser les pièces restantes.
+
+De plus, j'ai aidé jade à faire la soudure des moteurs, en tenant les fils afin que ce soit plus simple pour elle de souder et en dénudant les fils.
+
+
+Séance 4 : 14 Janvier 2019
+
+Aujourd'hui, j'ai dénudé les fils, et je les ai tenus pour la soudure du dernier moteur.
+J'ai quasiment fini de modéliser les différentes pièces de notre projet sur inventor, que vous pouvez voir dans les ressources. Il me restera donc la semaine prochaine à finaliser complétement la modélisation de ces pièces que nous irons imprimer en 3D et que nous collerons.
+De plus, j'ai aidé jade à savoir si les moteurs tournaient lorsqu'elle appuyait sur les boutons via le téléphone portable.
