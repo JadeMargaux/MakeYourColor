@@ -83,7 +83,7 @@ Je pourrai plus me pencher sur la réalisation du code quand la structure sera i
 Cependant j'ai déjà commencé à y rélféchir. Dans un premier temps j'ai édité sur l'application les 3 sliders, je leur ai donné les valeurs
 allant de 0 à 255 et j'ai assimilé un lettre à chaque slider. Du coté programme, j'ai utilisé un programme de td que correspond bien à ce que 
 l'on souhaite. Je vais ajouter cette partie du programme au programme global. 
-En cette fin de séance nous allons aller au fablab pour commencer à imprimer la strcuture. 
+En cette fin de séance nous allons aller au fablab pour commencer à imprimer la structure. 
 La semaine prochaine je continuerai la partie code. Je pourrai tester le fonctionnement des moteurs avec les sliders. 
 
 
