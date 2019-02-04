@@ -43,4 +43,5 @@ Séance 5 : 04 Février 2019
 Aujourd'hui, nous avons réalisé la soudure du dernier moteur.
 J'ai recherché sur internet une palette de couleurs plus complète que nous allons faire à partir des couleurs que nous avons déjà créées.
 
+<img src ="" alt="Schéma du projet"/>
 
