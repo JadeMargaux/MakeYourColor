@@ -73,16 +73,17 @@ Séance du 04 février 2019
 Aujourd'hui nous avons du refaire la soudure de 4 fils afin d'avoir 5 moteurs identiques. 
 Comme je l'ai dit précedemment, le but de cette séance est d'essayer de compléxifier le projet. Nous avons décidé d'ajouter en plus des
 boutons déjà existant qui permettent de créer les couleurs pré-définies dans le porgramme, 3 sliders. Ces sliders correspondront aux 
-couleurs rouge, bleu et jaune. L'idée est de choisir avec ces sliders le niveau d'intensité de la couleur et ainsi permettre de créer plus de couleus.
-En effet, le slider contient des entiers compris entre 0 et 255; par exemple si l'utilisateur souhaite un orange plus foncé que celle du bouton,
-il peut positionner le slider rouge à 255 et le slider jaune à 200.  Si il souhaite du turquoise, il pourra en amont appuyer 
+couleurs rouge, bleu et jaune. L'idée est de choisir avec ces sliders le niveau d'intensité de la couleur et ainsi permettre de créer 
+plus de couleurs.
+En effet, le slider contient des entiers compris entre 0 et 255; par exemple si l'utilisateur souhaite un orange plus foncé que celle 
+du bouton, il peut positionner le slider rouge à 255 et le slider jaune à 200.  Si il souhaite du turquoise, il pourra en amont appuyer 
 sur le bouton de la couleur verte et avec le slider, ajouter du bleu à sa guise. Il faudra donc réaliser des test de mélange de couleur
 pour être le plus précis possible. 
-Je pourrais plus me pencher sur la réalisation du code quand la structure sera imprimée.
+Je pourrai plus me pencher sur la réalisation du code quand la structure sera imprimée.
 Cependant j'ai déjà commencé à y rélféchir. Dans un premier temps j'ai édité sur l'application les 3 sliders, je leur ai donné les valeurs
-allant de 0 à 255 et j'ai assimilé un lettre à chaque slider. Du coté programme, j'ai utilisé un porgramme de td que correspond bien à ce que 
-l'on souhaite. Je vais ajouter cette partie du programe au programme global. 
-En cette fin de séance nous allons aller au fablab. 
+allant de 0 à 255 et j'ai assimilé un lettre à chaque slider. Du coté programme, j'ai utilisé un programme de td que correspond bien à ce que 
+l'on souhaite. Je vais ajouter cette partie du programme au programme global. 
+En cette fin de séance nous allons aller au fablab pour commencer à imprimer la strcuture. 
 La semaine prochaine je continuerai la partie code. Je pourrai tester le fonctionnement des moteurs avec les sliders. 
 
 
