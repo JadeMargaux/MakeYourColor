@@ -78,6 +78,12 @@ En effet, le slider contient des entiers compris entre 0 et 255; par exemple si 
 il peut positionner le slider rouge à 255 et le slider jaune à 200.  Si il souhaite du turquoise, il pourra en amont appuyer 
 sur le bouton de la couleur verte et avec le slider, ajouter du bleu à sa guise. Il faudra donc réaliser des test de mélange de couleur
 pour être le plus précis possible. 
-Je pourrais plus me pencher sur la réalisation du code quand la structure sera imprimée, d'ailleurs nous avons prévu de nous rendre au fablab
-jeudi matin. 
-Cependant j'ai déjà commencé à y rélféchir. Dans u
+Je pourrais plus me pencher sur la réalisation du code quand la structure sera imprimée.
+Cependant j'ai déjà commencé à y rélféchir. Dans un premier temps j'ai édité sur l'application les 3 sliders, je leur ai donné les valeurs
+allant de 0 à 255 et j'ai assimilé un lettre à chaque slider. Du coté programme, j'ai utilisé un porgramme de td que correspond bien à ce que 
+l'on souhaite. Je vais ajouter cette partie du programe au programme global. 
+En cette fin de séance nous allons aller au fablab. 
+La semaine prochaine je continuerai la partie code. Je pourrai tester le fonctionnement des moteurs avec les sliders. 
+
+
+
