@@ -41,6 +41,14 @@ Oral de fin de séance.
 
 <img src ="https://github.com/JadeMargaux/MakeYourColor/blob/master/Ressources/pi%C3%A8ce1.png" alt="pièce 1"/>
 <img src ="https://github.com/JadeMargaux/MakeYourColor/blob/master/Ressources/socle.png" alt="socle'/>
+                                                                                               
+                                                                                               
+                                                                                               
+                                                                                               
+                                                                                               
+                                                                                               
+                                                                                               
+                                                                                               
 
 Séance 5 : 04 Février 2019
 
