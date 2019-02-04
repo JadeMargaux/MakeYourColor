@@ -25,6 +25,8 @@ Aujourd'hui, suite à votre demande, j'ai modifié le diagramme de gantt. En eff
 
 Ensuite, je me suis intéressée aux différents liens que M.Masson nous a envoyé par mail afin de choisir la forme de la crémaillère. Nous allons en prendre une déjà toute faîte, ce qui est donc la solution la plus simple, qui va nous faire gagner du temps. https://www.stlfinder.com/model/linear-paintbrush-mechanism-nema17-bazykZqV/8073680
 
+<img src="https://github.com/JadeMargaux/MakeYourColor/blob/master/Ressources/cr%C3%A9maill%C3%A8re.png" alt="crémaillère"/>
+
 Enfin, sur inventor, j'ai commencé à modéliser la pièce centrale du projet, où j'ai percé les différents trous. Je finirai donc la semaine prochaine de modéliser les pièces restantes.
 
 De plus, j'ai aidé jade à faire la soudure des moteurs, en tenant les fils afin que ce soit plus simple pour elle de souder et en dénudant les fils.
