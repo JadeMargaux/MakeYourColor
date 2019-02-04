@@ -33,5 +33,14 @@ De plus, j'ai aidé jade à faire la soudure des moteurs, en tenant les fils afi
 Séance 4 : 14 Janvier 2019
 
 Aujourd'hui, j'ai dénudé les fils, et je les ai tenus pour la soudure du dernier moteur.
-J'ai quasiment fini de modéliser les différentes pièces de notre projet sur inventor, que vous pouvez voir dans les ressources. Il me restera donc la semaine prochaine à finaliser complétement la modélisation de ces pièces que nous irons imprimer en 3D et que nous collerons.
+J'ai fini de modéliser les différentes pièces de notre projet sur inventor, que vous pouvez voir dans les ressources. Il nous restera donc à imprimer en 3D les différentes pièces, que je collerais ensuite.
 De plus, j'ai aidé jade à savoir si les moteurs tournaient lorsqu'elle appuyait sur les boutons via le téléphone portable.
+Oral de fin de séance.
+
+
+Séance 5 : 04 Février 2019
+
+Aujourd'hui, nous avons réalisé la soudure du dernier moteur.
+J'ai recherché sur internet une palette de couleurs plus complète que nous allons faire à partir des couleurs que nous avons déjà créées.
+
+
