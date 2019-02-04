@@ -49,4 +49,10 @@ J'ai recherché sur internet une palette de couleurs plus complète que nous all
 
 <img src ="https://github.com/JadeMargaux/MakeYourColor/blob/master/Ressources/m%C3%A9lange%20couleurs.jpg" alt="mélanges couleurs"/>
 
+Ensuite, j'ai modélisé sur inventor, la dernière pièce (celle du dessus), que vous pouvez voir ci-dessous
+
+<img src="https://github.com/JadeMargaux/MakeYourColor/blob/master/Ressources/pi%C3%A8ce2.png" alt="pièce 2"/>
+
+Enfin, nous sommes allées au fablab afin d'imprimer les différentes pièces que j'ai modéliser.
+
 
