@@ -37,6 +37,7 @@ J'ai fini de modéliser les différentes pièces de notre projet sur inventor, q
 De plus, j'ai aidé jade à savoir si les moteurs tournaient lorsqu'elle appuyait sur les boutons via le téléphone portable.
 Oral de fin de séance.
 
+<img src ="https://github.com/JadeMargaux/MakeYourColor/blob/master/Ressources/pi%C3%A8ce1.png" alt="pièce 1"/>
 
 Séance 5 : 04 Février 2019
 
