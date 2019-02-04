@@ -64,6 +64,20 @@ La partie code que j'avais en tête est donc terminée. Cependant suite de la pr
 rajouter l'idée de la palette et du choix personnel des couleurs. Ce sera pour la séance prochaine. 
 
 Voici une photo du montage avec les 5 moteurs
-<img src="https://github.com/JadeMargaux/MakeYourColor/blob/master/Ressources/montage%205%20moteurs.JPG alt="montage 5 moteurs />
+<img src ="https://github.com/JadeMargaux/MakeYourColor/blob/master/Ressources/montage%205%20moteurs.JPG" alt="montage 5 moteurs" />
  Voir dans la partie Ressources
 
+Rapport de séance 5: 
+Séance du 04 février 2019 
+
+Aujourd'hui nous avons du refaire la soudure de 4 fils afin d'avoir 5 moteurs identiques. 
+Comme je l'ai dit précedemment, le but de cette séance est d'essayer de compléxifier le projet. Nous avons décidé d'ajouter en plus des
+boutons déjà existant qui permettent de créer les couleurs pré-définies dans le porgramme, 3 sliders. Ces sliders correspondront aux 
+couleurs rouge, bleu et jaune. L'idée est de choisir avec ces sliders le niveau d'intensité de la couleur et ainsi permettre de créer plus de couleus.
+En effet, le slider contient des entiers compris entre 0 et 255; par exemple si l'utilisateur souhaite un orange plus foncé que celle du bouton,
+il peut positionner le slider rouge à 255 et le slider jaune à 200.  Si il souhaite du turquoise, il pourra en amont appuyer 
+sur le bouton de la couleur verte et avec le slider, ajouter du bleu à sa guise. Il faudra donc réaliser des test de mélange de couleur
+pour être le plus précis possible. 
+Je pourrais plus me pencher sur la réalisation du code quand la structure sera imprimée, d'ailleurs nous avons prévu de nous rendre au fablab
+jeudi matin. 
+Cependant j'ai déjà commencé à y rélféchir. Dans u
