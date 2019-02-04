@@ -40,13 +40,18 @@ De plus, j'ai aidé jade à savoir si les moteurs tournaient lorsqu'elle appuyai
 Oral de fin de séance.
 
 <img src ="https://github.com/JadeMargaux/MakeYourColor/blob/master/Ressources/pi%C3%A8ce1.png" alt="pièce 1"/>
+
 <img src ="https://github.com/JadeMargaux/MakeYourColor/blob/master/Ressources/socle.png" alt="socle'/>
                                                                                                
                                                                                                
                                                                                                
                                                                                                
                                                                                                
-                                                                                               
+  
+  
+  
+  
+  
                                                                                                
                                                                                                
 
