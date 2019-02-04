@@ -33,11 +33,12 @@ De plus, j'ai aidé jade à faire la soudure des moteurs, en tenant les fils afi
 Séance 4 : 14 Janvier 2019
 
 Aujourd'hui, j'ai dénudé les fils, et je les ai tenus pour la soudure du dernier moteur.
-J'ai fini de modéliser les différentes pièces de notre projet sur inventor, que vous pouvez voir dans les ressources. Il nous restera donc à imprimer en 3D les différentes pièces, que je collerais ensuite.
+J'ai fini de modéliser les deux premières pièces de notre projet sur inventor, que vous pouvez voir ci-dessous. Il me restera donc à modéliser la dernière pièce puis à les imprimer en 3D, et les coller.
 De plus, j'ai aidé jade à savoir si les moteurs tournaient lorsqu'elle appuyait sur les boutons via le téléphone portable.
 Oral de fin de séance.
 
 <img src ="https://github.com/JadeMargaux/MakeYourColor/blob/master/Ressources/pi%C3%A8ce1.png" alt="pièce 1"/>
+<img src ="https://github.com/JadeMargaux/MakeYourColor/blob/master/Ressources/socle.png" alt="socle'/>
 
 Séance 5 : 04 Février 2019
 
@@ -45,4 +46,5 @@ Aujourd'hui, nous avons réalisé la soudure du dernier moteur.
 J'ai recherché sur internet une palette de couleurs plus complète que nous allons faire à partir des couleurs que nous avons déjà créées.
 
 <img src ="https://github.com/JadeMargaux/MakeYourColor/blob/master/Ressources/m%C3%A9lange%20couleurs.jpg" alt="mélanges couleurs"/>
+
 
