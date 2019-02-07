@@ -76,5 +76,8 @@ Jeudi 07 Février 2019
 
 Nous avons réalisé puis découpé au laser un grand rectangle de 27 cm de hauteur et 62.8cm de largeur, avec plusieurs striures pour coller ses deux extrémités afin de former un cylindre. Au premier essai, les colonnes avec les différents traits pour les striures étaient espacées de 1.6cm ce qui était beaucoup trop grand pour pouvoir "plier" le bois. Au deuxième essai, nous avons donc espacé les colonnes d'environ 4mm, ce qui nous a permis de bien relier les deux extrémités du rectangle (45min de découpe). Ensuite, nous avons découper deux cercles de diamètre 188mm : le premier étant le socle sur lequel nous allons positionner le cylindre et le deuxième cercle, lui-même composé de cinq cercles pour y mettre les cinq seringues. (Au premier essai de découpe de cercle, nous avions découpé un cercle de 192mm, ce qui était beaucoup trop grand par rapport à la base de notre cylindre. Nous avions donc calculer l'écart entre les deux extrémités du rectangle lorsque nous essayions de les relier : 1.5cm, que nous avons retiré au périmètre du cercle du cylindre que nous avions tracé sur une feuille, afin de calculer le nouveau diamètre). Finalement nous avons collé la partie supérieur du cylindre avec le rectangle, que nous avons accroché avec l'aide d'une sangle.
 
+<img src="https://github.com/JadeMargaux/MakeYourColor/blob/master/Ressources/socle1.jpeg" alt="photo collage1">
+
+<img src="
 
 
