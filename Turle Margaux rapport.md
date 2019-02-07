@@ -67,5 +67,11 @@ Ensuite, j'ai modélisé sur inventor, la dernière pièce (celle du dessus), qu
 <img src="https://github.com/JadeMargaux/MakeYourColor/blob/master/Ressources/pi%C3%A8ce2.png" alt="pièce 2"/>
 
 Enfin, nous sommes allées au fablab afin d'imprimer les différentes pièces que j'ai modéliser.
+Malheureusement, étant donné que notre socle ait une hauteur de 27cm, ceci est beaucoup trop grand pour l'imprimante 3D. Nous avons donc fait un choix entre imprimer le socle en 3D mais en deux fois et le coller ou faire notre socle en bois et découper les différentes pièces à l'aide du laser. Nous avons choisi, avec les conseils de la personne en charge du fablab d'avoir un socle en bois. Or, il faut savoir que pour découper les pièces de bois, il faut des plans en 2D alors que j'avais déjà réalisé tous les plans en 3D. J'ai donc redessiner les différents plans en 2D que nous avons refait sur le logiciel inscape. 
+
+
+Jeudi 07 Février 2019
+Nous avons réalisé puis découpé au laser un grand rectangle de 27 cm de hauteur et 62.8cm de largeur, avec plusieurs striures pour coller ses deux extrémités afin de former un cylindre. Au premier essai, les colonnes avec les différents traits pour les striures étaient espacées de 1.6cm ce qui était beaucoup trop grand pour pouvoir "plier" le bois. Au deuxième essai, nous avons donc espacé les colonnes d'environ 4mm, ce qui nous a permis de bien relier les deux extrémités du rectangle (45min de découpe). Ensuite, nous avons découper deux cercles de diamètre 188mm : le premier étant le socle sur lequel nous allons positionner le cylindre et le deuxième cercle, lui-même composé de cinq cercles pour y mettre les cinq seringues. (Au premier essai de découpe de cercle, nous avions découpé un cercle de 192mm, ce qui était beaucoup trop grand par rapport à la base de notre cylindre. Nous avions donc calculer l'écart entre les deux extrémités du rectangle lorsque nous essayions de les relier : 1.5cm, que nous avons retiré au périmètre du cercle du cylindre que nous avions tracé sur une feuille, afin de calculer le nouveau diamètre). Finalement nous avons collé la partie supérieur du cylindre avec le rectangle, que nous avons accroché avec l'aide d'une sangle.
+
 
 
