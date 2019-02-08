@@ -81,3 +81,8 @@ Nous avons réalisé puis découpé au laser un grand rectangle de 27 cm de haut
 <img src="https://github.com/JadeMargaux/MakeYourColor/blob/master/Ressources/socle2.jpeg" alt="photo collage2"/>
 
 
+Vendredi 08 Février 2019
+
+<img src="https://github.com/JadeMargaux/MakeYourColor/blob/master/Ressources/cylindre.jpeg" alt="cylindre"/>
+
+
