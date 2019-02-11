@@ -1,4 +1,7 @@
-Turle Margaux                                                 Rapport
+Turle Margaux                                               
+
+Rapport
+
 Séance 1 : 10 Décembre 2018    
 
 Lors de cette première séance, nous avons commencé par créer un compte github. Nous avons ensuite écrit notre cahier des charges afin de 
@@ -43,17 +46,7 @@ Oral de fin de séance.
 
 <img src ="https://github.com/JadeMargaux/MakeYourColor/blob/master/Ressources/socle.png" alt="socle"/>
                                                                                                
-                                                                                               
-                                                                                               
-                                                                                               
-                                                                                               
-  
-  
-  
-  
-  
-                                                                                               
-                                                                                               
+                                                                                         
 
 Séance 5 : 04 Février 2019
 
@@ -81,6 +74,7 @@ Nous avons réalisé puis découpé au laser un grand rectangle de 27 cm de haut
 <img src="https://github.com/JadeMargaux/MakeYourColor/blob/master/Ressources/socle2.jpeg" alt="photo collage2"/>
 
 
+
 Vendredi 08 Février 2019
 
 Aujourd'hui, nous sommes allées au fablab. J'ai redessiné les plans de notre projet car nous nous sommes rendues compte que le schéma de base n'était pas pratique car, du fait que les trois cylindres soient collés, nous ne pouvions pas recharger la peinture dans les seringues. Nous avons donc décidé d'améliorer ce point. Pour cela, nous avons choisi de faire un cube, avec un trou d'un diamètre un plus grand que le cylindre pour qu'ils puissent s'emboiter. Nous allons faire tenir le cube avec des sortes d'equerres de fixation, sur lequel celui sera posé. On pourra donc enlever le cube du cylindre pour prendre les seringues et les recharger lorqu'elles sont vides.
@@ -95,7 +89,10 @@ Enfin, nous avons collé les différentes faces du cube.
 <img src="https://github.com/JadeMargaux/MakeYourColor/blob/master/Ressources/schéma.jpeg" alt="schéma"/>
 
 
+
 Séance 6 : 11 Février 2019
 
 Recherche sur ebay des peintures à commander.
+
+<img src="https://github.com/JadeMargaux/MakeYourColor/blob/master/Ressources/peinture.png" alt="commande"/>
 
