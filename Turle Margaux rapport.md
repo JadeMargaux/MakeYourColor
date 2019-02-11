@@ -87,4 +87,6 @@ Vendredi 08 Février 2019
 
 <img src="https://github.com/JadeMargaux/MakeYourColor/blob/master/Ressources/cube.jpeg" alt="cube"/>
 
+<img src="https://github.com/JadeMargaux/MakeYourColor/blob/master/Ressources/schéma.jpeg" alt="schéma"/>
+
 
