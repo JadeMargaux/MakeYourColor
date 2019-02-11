@@ -87,4 +87,22 @@ En cette fin de séance nous allons aller au fablab pour commencer à imprimer l
 La semaine prochaine je continuerai la partie code. Je pourrai tester le fonctionnement des moteurs avec les sliders. 
 
 
+Rapport de séance 6:
+Séance du 11 février 2019
+
+Aujourd'hui nous devons retourner au fablab pour finir l'impression des pièces. Pendant les deux heures que nous avons, je vais donc 
+continuer la partie code commencée la semaine dernière. 
+Finalement, nous souhaitons, créer un slider noir et un slider blanc et non les 3 sliders rouge, bleu et jaune 
+(nous verrons si il nous reste du temps pour ces 3 sliders), cela permettra au client de pouvoir foncer ou éclaircir les couleurs choisies.
+J'ai donc repirs le code de la semaine dernière et j'ai echangé le numéro des moteurs, pour que cela corresponde aux moteurs noir eet blanc.
+Afin d'apporter une indication au client sur la couleur en cours de préparation, nous allons positionner un LED qui s'éclairera de la 
+couleur choisie. 
+Je travaille donc avec une LED RGB à annode commune; j'ai réalisé le test en amont pour être certaine.
+Pendant cette séance j'ai ainsi réalisé le branchement de cette led. Nous ne savons pas encore ou nous allons la positionner sur la 
+structure. 
+Comme la led marchera suivant les valeurs du PWM, j'ai changé les entrées des moteurs pour que les entrées de la led correspondent 
+aux entrées PWM ( à noter que les entrées pwm possible sont 3, 5, 6, 9, 10 et 11). 
+La séance prochaine la strucuture sera pratiquement terminée, on pourra tester l'ensemble. 
+
+
 
