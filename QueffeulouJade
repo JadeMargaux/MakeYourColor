@@ -98,11 +98,11 @@ J'ai donc repirs le code de la semaine dernière et j'ai echangé le numéro des
 Afin d'apporter une indication au client sur la couleur en cours de préparation, nous allons positionner un LED qui s'éclairera de la 
 couleur choisie. 
 Je travaille donc avec une LED RGB à annode commune; j'ai réalisé le test en amont pour être certaine.
-Pendant cette séance j'ai ainsi réalisé le branchement de cette led. Nous ne savons pas encore ou nous allons la positionner sur la 
+Pendant cette séance j'ai ainsi réalisé le branchement de cette led ( + 3 ressitances) . Nous ne savons pas encore ou nous allons la positionner sur la 
 structure. 
 Comme la led marchera suivant les valeurs du PWM, j'ai changé les entrées des moteurs pour que les entrées de la led correspondent 
 aux entrées PWM ( à noter que les entrées pwm possible sont 3, 5, 6, 9, 10 et 11). 
-La séance prochaine la strucuture sera pratiquement terminée, on pourra tester l'ensemble. 
+La séance prochaine je testerai le code alliant moteur et led. 
 
 
 
