@@ -83,10 +83,19 @@ Nous avons réalisé puis découpé au laser un grand rectangle de 27 cm de haut
 
 Vendredi 08 Février 2019
 
+Aujourd'hui, nous sommes allées au fablab. J'ai redessiné les plans de notre projet car nous nous sommes rendues compte que le schéma de base n'était pas pratique car, du fait que les trois cylindres soient collés, nous ne pouvions pas recharger la peinture dans les seringues. Nous avons donc décidé d'améliorer ce point. Pour cela, nous avons choisi de faire un cube, avec un trou d'un diamètre un plus grand que le cylindre pour qu'ils puissent s'emboiter. Nous allons faire tenir le cube avec des sortes d'equerres de fixation, sur lequel celui sera posé. On pourra donc enlever le cube du cylindre pour prendre les seringues et les recharger lorqu'elles sont vides.
+
+Après avoir refait le schéma du projet, nous avons collé la partie inférieur du cylindre. Ensuite, nous avons découpé les 6 faces du cube à la découpeuse laser, dans une des faces, nous avons découpé un cercle d'un diamètre un peu plus grand que celui du cylindre.
+Enfin, nous avons collé les différentes faces du cube.
+
 <img src="https://github.com/JadeMargaux/MakeYourColor/blob/master/Ressources/cylindre.jpeg" alt="cylindre"/>
 
 <img src="https://github.com/JadeMargaux/MakeYourColor/blob/master/Ressources/cube.jpeg" alt="cube"/>
 
 <img src="https://github.com/JadeMargaux/MakeYourColor/blob/master/Ressources/schéma.jpeg" alt="schéma"/>
 
+
+Séance 6 : 11 Février 2019
+
+Recherche sur ebay des peintures à commander.
 
