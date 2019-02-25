@@ -109,7 +109,7 @@ Rapport de séance 7:
 Séance du 25 février 2019
 
 Aujourd'hui je devais retravailler sur l'idée de la LED. Après plusieurs essais, de recherches sur internet et l'aide de Mr Masson, 
-nous avons mis au point un algorithme coorespondant à un code qui permet de visualiser la couleur que nous sommes en train de créer
+nous avons mis au point un algorithme correspondant à un code qui permet de visualiser la couleur que nous sommes en train de créer
 avec la LED RGB et via le PWM; ainsi nous avons réussi à faire en sorte que la LED, s'allume de la couleur formée avec les sliders RGB, 
 ou bien s'allume de la couleur des boutons prédéfinis. D'ailleurs cela a permis de faire fonctionner les sliders par la même occassion. 
 De plus, nous avons retesté le bon fonctionnement des moteurs a l'aide des boutons prédéfinis. Cependant nous voulons 
