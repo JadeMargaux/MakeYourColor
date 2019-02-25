@@ -105,4 +105,18 @@ aux entrées PWM ( à noter que les entrées pwm possible sont 3, 5, 6, 9, 10 et
 La séance prochaine je testerai le code alliant moteur et led. 
 
 
+Rapport de séance 7:
+Séance du 25 février 2019
+
+Aujourd'hui je devais retravailler sur l'idée de la LED. Après plusieurs essais, de recherches sur internet et l'aide de Mr Masson, 
+nous avons mis au point un algorithme coorespondant à un code qui permet de visualiser la couleur que nous sommes en train de créer
+avec la LED RGB et via le PWM; ainsi nous avons réussi à faire en sorte que la LED, s'allume de la couleur formée avec les sliders RGB, 
+ou bien s'allume de la couleur des boutons prédéfinis. D'ailleurs cela a permis de faire fonctionner les sliders par la même occassion. 
+De plus, nous avons retesté le bon fonctionnement des moteurs a l'aide des boutons prédéfinis. Cependant nous voulons 
+rajouter un bouton de type "Start" sur le téléphone pour qu'une fois la couleur choisie et visualisée sur la LED, nous lancions le programme 
+des moteurs. Je finaliserai donc ça la semaine prochaine. En parallèle, cette semaine nous irons au fablab pour finir la partie structure.  
+Il nous reste les engrenages,fixer les moteurs et la LED; une fois cela terminer nous pourrons réaliser les test des peintures. 
+
+
+
 
