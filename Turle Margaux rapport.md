@@ -95,7 +95,15 @@ Enfin, nous avons collé les différentes faces du cube.
 
 Séance 6 : 11 Février 2019
 
-Recherche sur ebay des peintures à commander.
+J'ai recherché et j'ai trouvé, sur ebay, les peintures que nous allons utiliser. Il s'agit de 5 tubes de gouaches de 220ml (les couleurs primaires : rouge, bleu et jaune et noir et blanc).
+Nous sommes allés au fablab pour faire à la découpeuse la partie supérieure de notre projet. Il sagit d'un parallélépipède où nous fixerons par la suite les moteurs. 
+
+La prochaine fois que nous irons au fablab, il faudra s'occuper des engrenages.
 
 <img src="https://github.com/JadeMargaux/MakeYourColor/blob/master/Ressources/peinture.png" alt="commande"/>
+
+
+Séance 7 : 26 Février 2019
+
+Aujourd'hui, j'ai travaillé avec jade sur le codage. En effet, nous avons réussi à faire en sorte que la led s'allume en fonction de la couleur choisi par les curseurs rouge vert et bleu. La couleur choisi par l'utilisateur sera ainsi visible sur la led. Il nous restera à faire le codage du bouton start pour valider le choix de l'utilisateur.
 
