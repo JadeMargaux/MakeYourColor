@@ -96,7 +96,7 @@ Enfin, nous avons collé les différentes faces du cube.
 Séance 6 : 11 Février 2019
 
 J'ai recherché et j'ai trouvé, sur ebay, les peintures que nous allons utiliser. Il s'agit de 5 tubes de gouaches de 220ml (les couleurs primaires : rouge, bleu et jaune et noir et blanc).
-Nous sommes allés au fablab pour faire à la découpeuse la partie supérieure de notre projet. Il sagit d'un parallélépipède où nous fixerons par la suite les moteurs. De plus nous avons découpé au laser des petites équerres que nous avons collés sur le cylindre. Ces équerres permettront de faire tenir la boite sur le cylindre. Cette boîte ne sera pas collée sur les équerres afin de pouvoir la retirer pour prendre seringues et les remplir lorsqu'elles seront vides.
+Nous sommes allés au fablab pour faire à la découpeuse la partie supérieure de notre projet. Il sagit d'un parallélépipède où nous fixerons par la suite les moteurs. De plus nous avons découpé au laser 4 petites équerres que nous avons collés sur le cylindre. Ces équerres permettront de faire tenir la boite sur le cylindre. Cette boîte ne sera pas collée sur les équerres afin de pouvoir la retirer pour prendre seringues et les remplir lorsqu'elles seront vides.
 
 La prochaine fois que nous irons au fablab, il faudra s'occuper des engrenages.
 
