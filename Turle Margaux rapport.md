@@ -101,6 +101,7 @@ Nous sommes allés au fablab pour faire à la découpeuse la partie supérieure 
 La prochaine fois que nous irons au fablab, il faudra s'occuper des engrenages.
 
 <img src="https://github.com/JadeMargaux/MakeYourColor/blob/master/Ressources/peinture.png" alt="commande"/>
+<img src="https://github.com/JadeMargaux/MakeYourColor/blob/master/Ressources/découpage.jpeg" alt="découpage"/>
 
 
 Séance 7 : 26 Février 2019
