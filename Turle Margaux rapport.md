@@ -102,9 +102,10 @@ La prochaine fois que nous irons au fablab, il faudra s'occuper des engrenages.
 
 <img src="https://github.com/JadeMargaux/MakeYourColor/blob/master/Ressources/peinture.png" alt="commande"/>
 <img src="https://github.com/JadeMargaux/MakeYourColor/blob/master/Ressources/découpage.jpeg" alt="découpage"/>
+<img src="https://github.com/JadeMargaux/MakeYourColor/blob/master/Ressources/équerres1.jpeg" alt="équerres"/>
 
 
 Séance 7 : 26 Février 2019
 
-Aujourd'hui, j'ai travaillé avec jade sur le codage. En effet, nous avons réussi avec l'aide de Mr. Masson, à faire en sorte que la led s'allume en fonction de la couleur choisi par les curseurs rouge vert et bleu ou en fonction des boutons où nous avons déjà défini une couleur (orange, marron, rose, rouge, bleu, jaune, vert, noir, blanc, gris, violet). La couleur choisi par l'utilisateur sera ainsi visible sur la led. L'utilisateur pourra modifier sa couleur tant qu'il n'aura pas appuyé sur le bouton start. Il nous restera donc à faire le codage du bouton start pour valider le choix de l'utilisateur. De plus, nous avons vérifié si les bons moteurs tournaient lorsque nous appuyons sur la couleur correspondante.
+Aujourd'hui, j'ai travaillé avec jade sur le codage. En effet, nous avons réussi avec l'aide de Mr. Masson, à faire en sorte que la led s'allume en fonction de la couleur choisie par les curseurs rouge vert et bleu ou en fonction des boutons où nous avons déjà défini une couleur (orange, marron, rose, rouge, bleu, jaune, vert, noir, blanc, gris, violet). La couleur choisie par l'utilisateur sera ainsi visible sur la led. L'utilisateur pourra modifier sa couleur tant qu'il n'aura pas appuyé sur le bouton start. Il nous restera donc à faire le codage du bouton start pour valider le choix de l'utilisateur. De plus, nous avons vérifié si les bons moteurs tournaient lorsque nous appuyons sur la couleur correspondante.
 
