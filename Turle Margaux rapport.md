@@ -103,6 +103,7 @@ La prochaine fois que nous irons au fablab, il faudra s'occuper des engrenages.
 <img src="https://github.com/JadeMargaux/MakeYourColor/blob/master/Ressources/peinture.png" alt="commande"/>
 <img src="https://github.com/JadeMargaux/MakeYourColor/blob/master/Ressources/découpage.jpeg" alt="découpage"/>
 <img src="https://github.com/JadeMargaux/MakeYourColor/blob/master/Ressources/équerres1.jpeg" alt="équerres"/>
+<img src="https://github.com/JadeMargaux/MakeYourColor/blob/master/Ressources/équerres2.jpeg" alt="équerres"/>
 
 
 Séance 7 : 26 Février 2019
