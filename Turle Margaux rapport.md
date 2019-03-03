@@ -112,6 +112,7 @@ Aujourd'hui, j'ai travaillé avec jade sur le codage. En effet, nous avons réus
 
 
 Jeudi 28 Février 2019
+
 Nous sommes allées au fablab pour imprimer en 3D la crémaillère. Sur ce que nous a envoyé Mr. Masson, les dimensions ne pouvaient pas être modifiés. Or la barette sur le site mesure 10cm et nous voulions une barette de 20 cm. Nous avons donc imprmer la barette de 11cm sur laquelle nous rajouterons une cale. Suite à la première impression (3h34), la barette était beaucoup trop large et ne pouvait pas glisser dans le dispositif prévu à cet effet. Nous avons donc mesuré l'écart entre le dispositif et la barette et nous avons réimprimer une barette à la bonne largeur. Celle-ci glissait alors correctement sur le montage. Il nous restera à imprimer les quatre autre crémaillères pour les quatre autres moteurs puis à les coller sur la structure. De plus, il nous restera à faire les cales. 
 
 (14.7/15=0.98mm)
