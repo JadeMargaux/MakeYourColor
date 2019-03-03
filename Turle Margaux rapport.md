@@ -106,7 +106,13 @@ La prochaine fois que nous irons au fablab, il faudra s'occuper des engrenages.
 <img src="https://github.com/JadeMargaux/MakeYourColor/blob/master/Ressources/équerres2.jpeg" alt="équerres"/>
 
 
-Séance 7 : 26 Février 2019
+Séance 7 : 25 Février 2019
 
 Aujourd'hui, j'ai travaillé avec jade sur le codage. En effet, nous avons réussi avec l'aide de Mr. Masson, à faire en sorte que la led s'allume en fonction de la couleur choisie par les curseurs rouge vert et bleu ou en fonction des boutons où nous avons déjà défini une couleur (orange, marron, rose, rouge, bleu, jaune, vert, noir, blanc, gris, violet). La couleur choisie par l'utilisateur sera ainsi visible sur la led. L'utilisateur pourra modifier sa couleur tant qu'il n'aura pas appuyé sur le bouton start. Il nous restera donc à faire le codage du bouton start pour valider le choix de l'utilisateur. De plus, nous avons vérifié si les bons moteurs tournaient lorsque nous appuyons sur la couleur correspondante.
+
+
+Jeudi 28 Février 2019
+Nous sommes allées au fablab pour imprimer en 3D la crémaillère. Sur ce que nous a envoyé Mr. Masson, les dimensions ne pouvaient pas être modifiés. Or la barette sur le site mesure 10cm et nous voulions une barette de 20 cm. Nous avons donc imprmer la barette de 11cm sur laquelle nous rajouterons une cale. Suite à la première impression (3h34), la barette était beaucoup trop large et ne pouvait pas glisser dans le dispositif prévu à cet effet. Nous avons donc mesuré l'écart entre le dispositif et la barette et nous avons réimprimer une barette à la bonne largeur. Celle-ci glissait alors correctement sur le montage. Il nous restera à imprimer les quatre autre crémaillères pour les quatre autres moteurs puis à les coller sur la structure. De plus, il nous restera à faire les cales. 
+
+(14.7/15=0.98mm)
 
