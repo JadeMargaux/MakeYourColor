@@ -118,10 +118,13 @@ Nous sommes allées au fablab pour imprimer en 3D la crémaillère. Sur ce que n
 
 (14.7/15=0.98mm)
 
+<img src="https://github.com/JadeMargaux/MakeYourColor/blob/master/Ressources/crémaillère.jpeg" alt="crémaillère"/>
+
+
 
 Séance 8 : 04 Mars 2019
 
-Nous avons dû avec l'aide de Mr. Masson vérifier si tous les moteurs tournaient correctement suite au court-circuit de la semaine précédente. De plus nous avons fini le programme concernant la led, qui s'allume en fonction des boutons ou des curseurs. Il nous retse par conséquent à faire le programme du bouton start et à trouver une solution pour passer des couleurs des curseurs en RGB (synthèse additive) aux couleurs primaires en peinture (rouge, jaune, bleu), ce qui est plutôt compliqué.
+Nous avons dû avec l'aide de Mr. Masson vérifier si tous les moteurs tournaient correctement suite au court-circuit de la semaine précédente. De plus nous avons fini le programme concernant la led, qui s'allume en fonction des boutons ou des curseurs. Il nous reste par conséquent à faire le programme du bouton start et à trouver une solution pour passer des couleurs des curseurs en RGB (synthèse additive) aux couleurs primaires en peinture (rouge, jaune, bleu), ce qui est plutôt compliqué.
 
 Recherche:
 http://comment-peindre.com/couleurs-primaires-pour-debuter/
