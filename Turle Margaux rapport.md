@@ -108,7 +108,7 @@ La prochaine fois que nous irons au fablab, il faudra s'occuper des engrenages.
 
 Séance 7 : 25 Février 2019
 
-Aujourd'hui, j'ai travaillé avec jade sur le codage. En effet, nous avons réussi avec l'aide de Mr. Masson, à faire en sorte que la led s'allume en fonction de la couleur choisie par les curseurs rouge vert et bleu ou en fonction des boutons où nous avons déjà défini une couleur (orange, marron, rose, rouge, bleu, jaune, vert, noir, blanc, gris, violet). La couleur choisie par l'utilisateur sera ainsi visible sur la led. L'utilisateur pourra modifier sa couleur tant qu'il n'aura pas appuyé sur le bouton start. Il nous restera donc à faire le codage du bouton start pour valider le choix de l'utilisateur. De plus, nous avons vérifié si les bons moteurs tournaient lorsque nous appuyons sur la couleur correspondante.
+Aujourd'hui, j'ai travaillé avec jade sur le codage. En effet, nous avons réussi avec l'aide de Mr. Masson, à faire en sorte que la led s'allume en fonction de la couleur choisie par les curseurs rouge vert et bleu ou en fonction des boutons où nous avons déjà défini une couleur (orange, marron, rose, rouge, bleu, jaune, vert, noir, blanc, gris, violet). La couleur choisie par l'utilisateur sera ainsi visible sur la led. L'utilisateur pourra modifier sa couleur tant qu'il n'aura pas appuyé sur le bouton start. Il nous restera donc à faire le codage du bouton start pour valider le choix de l'utilisateur. De plus, nous avons vérifié si les bons moteurs tournaient lorsque nous appuyons sur la couleur correspondante. Cependant nous avons eu un problème puisque de la fumée est sortie des fils lorsque nous testions les moteurs. Puis, les moteurs ne marchaient plus.
 
 
 
@@ -117,4 +117,12 @@ Jeudi 28 Février 2019
 Nous sommes allées au fablab pour imprimer en 3D la crémaillère. Sur ce que nous a envoyé Mr. Masson, les dimensions ne pouvaient pas être modifiés. Or la barette sur le site mesure 10cm et nous voulions une barette de 20 cm. Nous avons donc imprmer la barette de 10cm sur laquelle nous rajouterons une cale. Suite à la première impression (3h34), la barette était beaucoup trop large et ne pouvait pas glisser dans le dispositif prévu à cet effet. Nous avons donc mesuré l'écart entre le dispositif et la barette et nous avons réimprimer une barette à la bonne largeur. Celle-ci glissait alors correctement sur le montage. Il nous restera à imprimer les quatre autre crémaillères pour les quatre autres moteurs puis à les coller sur la structure. De plus, il nous restera à faire les cales. 
 
 (14.7/15=0.98mm)
+
+
+Séance 8 : 04 Mars 2019
+
+Nous avons dû avec l'aide de Mr. Masson vérifier si tous les moteurs tournaient correctement suite au court-circuit de la semaine précédente. De plus nous avons fini le programme concernant la led, qui s'allume en fonction des boutons ou des curseurs. Il nous retse par conséquent à faire le programme du bouton start et à trouver une solution pour passer des couleurs des curseurs en RGB (synthèse additive) aux couleurs primaires en peinture (rouge, jaune, bleu), ce qui est plutôt compliqué.
+
+Recherche:
+http://comment-peindre.com/couleurs-primaires-pour-debuter/
 
