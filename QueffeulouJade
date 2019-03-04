@@ -115,7 +115,20 @@ ou bien s'allume de la couleur des boutons prédéfinis. D'ailleurs cela a permi
 De plus, nous avons retesté le bon fonctionnement des moteurs a l'aide des boutons prédéfinis. Cependant nous voulons 
 rajouter un bouton de type "Start" sur le téléphone pour qu'une fois la couleur choisie et visualisée sur la LED, nous lancions le programme 
 des moteurs. Je finaliserai donc ça la semaine prochaine. En parallèle, cette semaine nous irons au fablab pour finir la partie structure.  
-Il nous reste les engrenages,fixer les moteurs et la LED; une fois cela terminer nous pourrons réaliser les test des peintures. 
+Il nous reste les engrenages,fixer les moteurs et la LED; une fois cela terminer nous pourrons réaliser les test des peintures.
+
+
+Rapport de séance 8:
+Séance du 04 mars 2019
+
+Aujourd'hui, c'etait la dernière séance avant la présentation finale. La semaine dernière nous avions constaté que les moteurs ne tournaient
+plus...nous avons donc vérifier chaque moteur un par un avec l'aide de Mr Masson. Finalement le problème était au niveau d'un fil d'alimention 
+qui avait trop surchauffé. Nous avons donc changer le fil. L'autre partie de la séance a été de retravailler le code de la LED; c'est presque 
+finalisé, nous avons peut être trouvé une solution pour transformer les combinaisons de couleurs du RGB en combinaisons de peinture. 
+Dans la semaine, le but est de finir ceci et d'y ajouter le fonctionnement de chaque moteur coorespondant comme nous l'avons évoqué en TP ce matin, ave 
+les différents PWM. Pour la partie structure,nous avons téléphoné au FabManager, le reste des pièces, à savoir les 4 crémaillères et les 4 roues dentelées 
+devraient être prête pour demain, mardi 05 mars. Nous irons ainsi les récupérer et nous finirons d'assembler.
+La semaine prochaine, nous avons un peu de temps avant la présentation, une possibilité pour nous de bien se préparer avant.  
 
 
 
