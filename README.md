@@ -8,3 +8,6 @@ Dans l’idéal notre projet est de proposer deux possibilités pour le choix de
  
 Ce projet est destiné à un public particulier, comme des écoles maternelles ou des centres aérés.
 
+
+<img src=
+
